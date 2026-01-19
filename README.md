@@ -7,6 +7,7 @@
       <h1>Codex Audio Companion</h1>
       <p><strong>Reste dans ton flow, Codex te parle.</strong></p>
       <p>
+	<img src="https://img.shields.io/github/v/release/TREHAND-Christian/codex-audio-companion">
         <img src="https://img.shields.io/badge/python-3.12-blue">
         <img src="https://img.shields.io/badge/platform-Windows-lightgrey">
         <img src="https://img.shields.io/badge/status-experimental-orange">
@@ -14,6 +15,7 @@
     </td>
   </tr>
 </table>
+
 
 Codex Audio Companion est une application desktop qui transforme les réponses de **Codex (extension OpenAI pour VS Code)** en lecture audio claire et immédiate.
 
@@ -41,7 +43,7 @@ Pensée comme un compagnon discret, elle fonctionne entièrement en local, sans 
 2. Le fichier de session `.jsonl` est surveillé
 3. La nouvelle réponse est détectée, affichée et lue
 
-➡️ Aucun plugin VS Code supplémentaire  
+➡️ Aucun plugin VS Code supplémentaire
 ➡️ Aucun accès réseau requis
 
 ---
