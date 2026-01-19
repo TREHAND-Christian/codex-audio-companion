@@ -15,5 +15,4 @@ build/
 Thumbs.db
 
 # VS Code
-.vscode/*
-!.vscode/settings.json
+.vscode/
